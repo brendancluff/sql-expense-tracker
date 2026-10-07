@@ -8,7 +8,7 @@ The user can add new expenses, view saved expenses, update existing expenses, an
 
 I wrote this software to improve my understanding of relational databases and learn how Python can interact with a database using SQL commands. This project gave me experience creating tables, inserting data, retrieving data, modifying records, deleting records, and using aggregate functions.
 
-[Software Demo Video](VIDEO LINK HERE)
+[Software Demo Video] https://youtu.be/O5-y2iu7Q8A
 
 ## Relational Database
 
